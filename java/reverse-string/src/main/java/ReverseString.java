@@ -2,8 +2,13 @@ class ReverseString {
 
     String reverse(String inputString) {
 
-        return inputString = "Cool";
+        String[] reverseString = inputString.split("");
+        String reverseDone = "";
 
+        for (int i = reverseString.length - 1; i >= 0 ; i--) {
+             reverseDone += reverseString[i];
+        }
+        return reverseDone;
     }
   
 }
