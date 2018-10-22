@@ -11,7 +11,7 @@ public class ScrabbleScoreTest {
         assertEquals(1, scrabble.getScore());
     }
 
-    
+
     @Test
     public void testAUpperCaseLetter() {
         Scrabble scrabble = new Scrabble("A");

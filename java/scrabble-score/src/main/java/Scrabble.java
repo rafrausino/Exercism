@@ -18,7 +18,7 @@ class Scrabble {
         return expected;
     }
 
-     int generateValue(char letter){
+    int generateValue(char letter){
         if(letter == 'A' || letter == 'E' || letter == 'I' || letter == 'O' || letter == 'U' || letter == 'L' || letter == 'N' || letter == 'R' || letter == 'S' || letter == 'T'){
             return 1;
         }else if(letter == 'D' || letter == 'G'){
