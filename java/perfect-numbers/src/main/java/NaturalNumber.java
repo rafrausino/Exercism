@@ -1,7 +1,7 @@
 class NaturalNumber {
 
     private int number;
-    
+
     NaturalNumber(int number) {
         if (number <= 0) throw new IllegalArgumentException("You must supply a natural number (positive integer)");
         this.number = number;
