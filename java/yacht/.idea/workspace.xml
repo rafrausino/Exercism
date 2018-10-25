@@ -2,12 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82c3de7-6781-46ae-ae66-c475ef432684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/rafrausin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../perfect-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../perfect-numbers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../perfect-numbers/src/main/java/NaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../perfect-numbers/src/main/java/NaturalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../protein-translation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Yacht.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Yacht.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/YachtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/YachtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/YachtTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/YachtTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-YachtTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-YachtTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Yacht$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Yacht$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Yacht.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Yacht.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/YachtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/YachtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Yacht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Yacht.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/YachtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/YachtTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -17,6 +38,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/yacht$YachtTest_twoPairIsNotAFullHouse.ic" NAME="YachtTest.twoPairIsNotAFullHouse Coverage Results" MODIFIED="1540416251106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -33,47 +57,60 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1380" />
+          <entry key="java" value="4301" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1380" />
+          <entry key="JAVA" value="4301" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="58" />
+            <state relative-caret-position="199">
+              <caret line="186" column="40" lean-forward="true" selection-start-line="186" selection-start-column="40" selection-end-line="186" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Yacht.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="154">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>two</find>
+      <find>bigStraightAsLittleStraight</find>
+      <find>noPairsButNotALittleStraight</find>
+      <find>BIG_STRAIGHT</find>
+      <find>littleStraightAsBigStraight</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -436,10 +473,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-138" />
-    <option name="y" value="-1032" />
+    <option name="x" value="-196" />
+    <option name="y" value="-1054" />
     <option name="width" value="1732" />
-    <option name="height" value="996" />
+    <option name="height" value="993" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -511,18 +548,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.YachtTest.littleStraight">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YachtTest.yacht" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="YachtTest.fourInOrderButNotALittleStraight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yacht_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="YachtTest" />
-      <option name="METHOD_NAME" value="yacht" />
+      <option name="METHOD_NAME" value="fourInOrderButNotALittleStraight" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YachtTest.fourOfAKind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yacht_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YachtTest" />
+      <option name="METHOD_NAME" value="fourOfAKind" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YachtTest.littleStraight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yacht_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YachtTest" />
+      <option name="METHOD_NAME" value="littleStraight" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YachtTest.twoPairIsNotAFullHouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yacht_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YachtTest" />
+      <option name="METHOD_NAME" value="twoPairIsNotAFullHouse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YachtTest.yachtCanBeScoredAsFourOfAKind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yacht_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YachtTest" />
+      <option name="METHOD_NAME" value="yachtCanBeScoredAsFourOfAKind" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -543,9 +624,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.YachtTest.twoPairIsNotAFullHouse" />
+      <item itemvalue="JUnit.YachtTest.fourOfAKind" />
+      <item itemvalue="JUnit.YachtTest.yachtCanBeScoredAsFourOfAKind" />
+      <item itemvalue="JUnit.YachtTest.fourInOrderButNotALittleStraight" />
+      <item itemvalue="JUnit.YachtTest.littleStraight" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.YachtTest.yacht" />
+        <item itemvalue="JUnit.YachtTest.littleStraight" />
+        <item itemvalue="JUnit.YachtTest.fourInOrderButNotALittleStraight" />
+        <item itemvalue="JUnit.YachtTest.yachtCanBeScoredAsFourOfAKind" />
+        <item itemvalue="JUnit.YachtTest.fourOfAKind" />
+        <item itemvalue="JUnit.YachtTest.twoPairIsNotAFullHouse" />
       </list>
     </recent_temporary>
   </component>
@@ -563,39 +655,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 41m 43s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fullHouseThreeSmallTwoBig - 2018.10.24 at 19h 29m 24s.xml">
+      <configuration name="YachtTest.fullHouseThreeSmallTwoBig" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 42m 43s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fullHouseThreeSmallTwoBig - 2018.10.24 at 19h 29m 40s.xml">
+      <configuration name="YachtTest.fullHouseThreeSmallTwoBig" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 44m 02s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fourOfAKind - 2018.10.25 at 12h 37m 07s.xml">
+      <configuration name="YachtTest.fourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 47m 20s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fourOfAKind - 2018.10.25 at 12h 39m 49s.xml">
+      <configuration name="YachtTest.fourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 47m 55s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fourOfAKind - 2018.10.25 at 12h 41m 10s.xml">
+      <configuration name="YachtTest.fourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 17h 48m 32s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fourOfAKind - 2018.10.25 at 12h 42m 02s.xml">
+      <configuration name="YachtTest.fourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 18h 17m 21s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_fourOfAKind - 2018.10.25 at 12h 42m 43s.xml">
+      <configuration name="YachtTest.fourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 19h 17m 06s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_yachtCanBeScoredAsFourOfAKind - 2018.10.25 at 12h 49m 55s.xml">
+      <configuration name="YachtTest.yachtCanBeScoredAsFourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 19h 21m 25s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_yachtCanBeScoredAsFourOfAKind - 2018.10.25 at 14h 45m 53s.xml">
+      <configuration name="YachtTest.yachtCanBeScoredAsFourOfAKind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YachtTest_yacht - 2018.10.23 at 19h 25m 35s.xml">
-      <configuration name="YachtTest.yacht" configurationId="JUnit" />
+    <history-entry file="YachtTest_littleStraight - 2018.10.25 at 14h 48m 08s.xml">
+      <configuration name="YachtTest.littleStraight" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-138" y="-1032" width="1732" height="996" extended-state="0" />
+    <frame x="-196" y="-1054" width="1732" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -609,15 +701,16 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32939914" />
-      <window_info anchor="bottom" id="Messages" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" weight="0.32938644" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39914164" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40043056" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295858" />
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="sbt" />
@@ -634,40 +727,85 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Yacht.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/test/java/YachtTest.java</url>
+          <line>80</line>
           <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/YachtTest.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/YachtTest.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/YachtTest.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/YachtTest.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YachtCategory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Yacht.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="154">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="186" column="40" lean-forward="true" selection-start-line="186" selection-start-column="40" selection-end-line="186" selection-end-column="40" />
         </state>
       </provider>
     </entry>

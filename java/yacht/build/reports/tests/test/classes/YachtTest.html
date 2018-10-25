@@ -29,19 +29,19 @@
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">1</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="ignored">
-<div class="counter">26</div>
+<div class="counter">0</div>
 <p>ignored</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.011s</div>
+<div class="counter">0.005s</div>
 <p>duration</p>
 </div>
 </td>
@@ -50,8 +50,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">0%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -61,76 +61,10 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
-</li>
-<li>
-<a href="#tab1">Tests</a>
+<a href="#tab0">Tests</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="notYacht"></a>
-<h3 class="failures">notYacht</h3>
-<span class="code">
-<pre>java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;50&gt;
-	at org.junit.Assert.fail(Assert.java:88)
-	at org.junit.Assert.failNotEquals(Assert.java:834)
-	at org.junit.Assert.assertEquals(Assert.java:645)
-	at org.junit.Assert.assertEquals(Assert.java:631)
-	at YachtTest.notYacht(YachtTest.java:18)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
-	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:106)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
-	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:66)
-	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
-	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
-	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
-	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:117)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:155)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:137)
-	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404)
-	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
-	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
-	at java.base/java.lang.Thread.run(Thread.java:844)
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -141,139 +75,139 @@
 </tr>
 </thead>
 <tr>
-<td class="skipped">bigStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">bigStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">bigStraightAsLittleStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">bigStraightAsLittleStraight</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">choice</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">choice</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fourInOrderButNotALittleStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fourInOrderButNotALittleStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fourOfAKind</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fourOfAKind</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fourOfAKindIsNotAFullHouse</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fourOfAKindIsNotAFullHouse</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fours</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fours</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fullHouseIsNotFourOfAKind</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fullHouseIsNotFourOfAKind</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fullHouseThreeSmallTwoBig</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fullHouseThreeSmallTwoBig</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">fullHouseTwoSmallThreeBig</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">fullHouseTwoSmallThreeBig</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">littleStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">littleStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">littleStraightAsBigStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">littleStraightAsBigStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">minimumIs1MaximumIs5ButNotALittleStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">minimumIs1MaximumIs5ButNotALittleStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">noOnes</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">noOnes</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">noPairsButNotALittleStraight</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">noPairsButNotALittleStraight</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="failures">notYacht</td>
-<td class="failures">0.006s</td>
-<td class="failures">failed</td>
+<td class="success">notYacht</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">ones</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">ones</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">onesOutOfOrder</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">onesOutOfOrder</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">sixes</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">sixes</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">twoPairIsNotAFullHouse</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">twoPairIsNotAFullHouse</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">twos</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">twos</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yacht</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yacht</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yachtAsChoice</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yachtAsChoice</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yachtCanBeScoredAsFourOfAKind</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yachtCanBeScoredAsFourOfAKind</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yachtCountedAsThrees</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yachtCountedAsThrees</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yachtIsNotAFullHouse</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yachtIsNotAFullHouse</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 <tr>
-<td class="skipped">yachtOfThreesCountedAsFives</td>
-<td class="skipped">-</td>
-<td class="skipped">ignored</td>
+<td class="success">yachtOfThreesCountedAsFives</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
 </tr>
 </table>
 </div>
@@ -285,7 +219,7 @@
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 4.10</a> at Oct 23, 2018, 5:18:16 PM</p>
+<a href="http://www.gradle.org">Gradle 4.10</a> at Oct 25, 2018, 2:35:42 PM</p>
 </div>
 </div>
 </body>
