@@ -26,7 +26,7 @@ class Yacht {
                     }
                 }
                 return 0;
-           
+
             default:
                 throw new IllegalArgumentException("Invalid yacht category.");
         }
