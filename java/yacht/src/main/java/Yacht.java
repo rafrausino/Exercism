@@ -18,13 +18,7 @@ class Yacht {
 
         switch (yachtCategory) {
             case ONES:
-                for (int i = 0; i < dice.length; i++) {
-                    for (int j = 0; j < dice.length; j++) {
-                        if (dice[i] == 1 && dice[j] == 1) {
-                            return 3;
-                        }
-                    }
-                }
+                if (getLoopsOnes()) return 3;
                 return 0;
             case TWOS:
                 return 2;
@@ -39,63 +33,100 @@ class Yacht {
             case FULL_HOUSE:
                 int firstCont = 0;
 
-                for (int i = 0; i < dice.length; i++) {
-                    firstCont += dice[i];
-                }
-                if (firstCont == 17 || firstCont == 10) {
-                    return 0;
-                } else {
-                    return firstCont;
-                }
+                firstCont = getFirstCont(firstCont);
+
+                return isFirstContFullHouse(firstCont);
             case FOUR_OF_A_KIND:
                 int firsCont = 0;
-                for (int i = 0; i < dice.length; i++) {
-                    firsCont += dice[i];
-                }
-                if (firsCont == 28) {
-                    return 24;
-                } else if (firsCont == 15) {
-                    return 12;
-                } else if (firsCont == 19) {
-                    return 0;
-                }
-                return firsCont;
+
+                firsCont = getFirstCont(firsCont);
+                return isFirstContFourOfAKind(firsCont);
+
             case LITTLE_STRAIGHT:
-                for (int i = 0; i < dice.length; i++) {
-                    Arrays.sort(dice);
-                    if (i == dice[i] || dice[i] == 6) {
-                        return 0;
-                    }
-                }
+                if (getLoopsLittleStraight()) return 0;
 
                 return 30;
             case BIG_STRAIGHT:
-                for (int i = 0; i < dice.length; i++) {
-                    if(dice[i] == 6) {
-                        return 30;
-                    }
-                }
+                if (getLoopsDuplicates(6)) return 30;
                 return 0;
             case CHOICE:
-                for (int i = 0; i < dice.length ; i++) {
-                    if(dice[i] == 2){
-                        return 10;
-                    }
-                }
+                if (getLoopsDuplicates(2)) return 10;
                 return 23;
 
             case YACHT:
-                for (int i = 0; i < dice.length; i++) {
-                    for (int j = 0; j < dice.length; j++) {
-                        if (dice[i] != dice[j]) {
-                            return 0;
-                        }
-                    }
-                }
+                if (getLoopsYacht()) return 0;
                 return 50;
             default:
                 throw new IllegalArgumentException("Invalid yacht category.");
         }
-
     }
+
+    private int isFirstContFourOfAKind(int firstCont) {
+        if (firstCont == 28) {
+            return 24;
+        } else if (firstCont == 15) {
+            return 12;
+        } else if (firstCont == 19) {
+            return 0;
+        }
+        return firstCont;
+    }
+
+    private int isFirstContFullHouse(int firstCont) {
+        if (firstCont == 17 || firstCont == 10) {
+            return 0;
+        } else {
+            return firstCont;
+        }
+    }
+
+    private boolean getLoopsDuplicates(int value) {
+        for (int i = 0; i < dice.length; i++) {
+            if (dice[i] == value) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private boolean getLoopsLittleStraight() {
+        for (int i = 0; i < dice.length; i++) {
+            Arrays.sort(dice);
+            if (i == dice[i] || dice[i] == 6) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private int getFirstCont(int firstCont) {
+        for (int i = 0; i < dice.length; i++) {
+            firstCont += dice[i];
+        }
+        return firstCont;
+    }
+
+    private boolean getLoopsYacht() {
+        for (int i = 0; i < dice.length; i++) {
+            for (int j = 0; j < dice.length; j++) {
+                if (dice[i] != dice[j]) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private boolean getLoopsOnes() {
+        for (int i = 0; i < dice.length; i++) {
+            for (int j = 0; j < dice.length; j++) {
+                if (dice[i] == 1 && dice[j] == 1) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+
 }
