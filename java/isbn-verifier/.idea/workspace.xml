@@ -1,24 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62e53b84-03c5-4ecf-8815-1da6c5247215" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/rafrausin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../perfect-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../perfect-numbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../perfect-numbers/src/main/java/NaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../perfect-numbers/src/main/java/NaturalNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../protein-translation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proverb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proverb/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f415d83e-df57-4135-9fc2-1a4744dedca6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/IsbnVerifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/IsbnVerifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/IsbnVerifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/IsbnVerifierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/IsbnVerifierTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/IsbnVerifierTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-IsbnVerifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-IsbnVerifierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/IsbnVerifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/IsbnVerifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/IsbnVerifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/IsbnVerifierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IsbnVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IsbnVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../yacht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yacht/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/isbn_verifier$IsbnVerifierTest_validIsbnNumber.ic" NAME="IsbnVerifierTest.validIsbnNumber Coverage Results" MODIFIED="1540578894288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -29,35 +47,78 @@
     <session id="-1515308649">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="class" value="70" />
+          <entry key="java" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="CLASS" value="70" />
+          <entry key="JAVA" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="230" />
+          <entry key="java" value="6165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="230" />
+          <entry key="JAVA" value="6165" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
+              <folding>
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1217#1218#0" expanded="true" />
+                <element signature="e#1940#1941#0" expanded="true" />
+                <element signature="e#1995#1996#0" expanded="true" />
+                <element signature="e#2253#2254#0" expanded="true" />
+                <element signature="e#2319#2320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>invalidIsbnCheckDigit</find>
+      <find>isbnWithoutCheckDigitAndDashes</find>
+      <find>isbnWithoutSeparatingDashesAndXAsCheckDigit</find>
+      <find>invalidCharacterInIsbn</find>
+      <find>replaceVerify</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>toVerify</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -393,7 +454,7 @@
         <entry key="$PROJECT_DIR$/../difference-of-squares" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../gigasecond" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../hamming" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
         <entry key="$PROJECT_DIR$/../pangram" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../perfect-numbers" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../protein-translation" value="PREVIEW" />
@@ -421,11 +482,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-196" />
-    <option name="y" value="-1054" />
-    <option name="width" value="1732" />
-    <option name="height" value="993" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-268" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -434,6 +495,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -476,13 +538,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -497,9 +559,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsbnVerifierTest.validIsbnNumber">
+  <component name="RunManager" selected="JUnit.IsbnVerifierTest.checkDigitOfXShouldNotBeUsedForZero">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsbnVerifierTest.checkDigitOfXShouldNotBeUsedForZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isbn-verifier_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
+      <option name="METHOD_NAME" value="checkDigitOfXShouldNotBeUsedForZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -515,11 +588,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsbnVerifierTest.validIsbnNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsbnVerifierTest.tooShortIsbn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="isbn-verifier_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" value="validIsbnNumber" />
+      <option name="METHOD_NAME" value="tooShortIsbn" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isbn-verifier_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
+      <option name="METHOD_NAME" value="validIsbnNumberWithCheckDigitOfTen" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsbnVerifierTest.xIsOnlyValidAsACheckDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isbn-verifier_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
+      <option name="METHOD_NAME" value="xIsOnlyValidAsACheckDigit" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -541,12 +636,18 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" />
+      <item itemvalue="JUnit.IsbnVerifierTest.xIsOnlyValidAsACheckDigit" />
       <item itemvalue="JUnit.IsbnVerifierTest.invalidIsbnCheckDigit" />
-      <item itemvalue="JUnit.IsbnVerifierTest.validIsbnNumber" />
+      <item itemvalue="JUnit.IsbnVerifierTest.tooShortIsbn" />
+      <item itemvalue="JUnit.IsbnVerifierTest.checkDigitOfXShouldNotBeUsedForZero" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsbnVerifierTest.validIsbnNumber" />
+        <item itemvalue="JUnit.IsbnVerifierTest.checkDigitOfXShouldNotBeUsedForZero" />
+        <item itemvalue="JUnit.IsbnVerifierTest.tooShortIsbn" />
+        <item itemvalue="JUnit.IsbnVerifierTest.xIsOnlyValidAsACheckDigit" />
+        <item itemvalue="JUnit.IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" />
         <item itemvalue="JUnit.IsbnVerifierTest.invalidIsbnCheckDigit" />
       </list>
     </recent_temporary>
@@ -556,83 +657,168 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62e53b84-03c5-4ecf-8815-1da6c5247215" name="Default Changelist" comment="" />
-      <created>1540497293832</created>
+      <changelist id="f415d83e-df57-4135-9fc2-1a4744dedca6" name="Default Changelist" comment="" />
+      <created>1540571358297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540497293832</updated>
+      <updated>1540571358297</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IsbnVerifierTest_validIsbnNumber - 2018.10.25 at 18h 28m 17s.xml">
-      <configuration name="IsbnVerifierTest.validIsbnNumber" configurationId="JUnit" />
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 15h 23m 34s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_validIsbnNumber - 2018.10.25 at 18h 30m 58s.xml">
-      <configuration name="IsbnVerifierTest.validIsbnNumber" configurationId="JUnit" />
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 15h 47m 21s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_invalidIsbnCheckDigit - 2018.10.25 at 18h 36m 07s.xml">
-      <configuration name="IsbnVerifierTest.invalidIsbnCheckDigit" configurationId="JUnit" />
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 15h 51m 23s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 16h 36m 08s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 16h 37m 17s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 18h 11m 17s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_validIsbnNumberWithCheckDigitOfTen - 2018.10.31 at 18h 11m 26s.xml">
+      <configuration name="IsbnVerifierTest.validIsbnNumberWithCheckDigitOfTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_tooShortIsbn - 2018.10.31 at 18h 14m 32s.xml">
+      <configuration name="IsbnVerifierTest.tooShortIsbn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_tooShortIsbn - 2018.10.31 at 18h 14m 38s.xml">
+      <configuration name="IsbnVerifierTest.tooShortIsbn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsbnVerifierTest_checkDigitOfXShouldNotBeUsedForZero - 2018.10.31 at 18h 18m 35s.xml">
+      <configuration name="IsbnVerifierTest.checkDigitOfXShouldNotBeUsedForZero" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-196" y="-1054" width="1732" height="993" extended-state="0" />
+    <frame x="-268" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970414" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25612354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32938644" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32755297" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3824663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32930514" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32658958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32960597" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sequeneIntegerNine == &quot;8&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sequeneIntegerNine == 8</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sequeneIntegerNine == '8'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>== '8'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>toVerify.charAt(8) == '8'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>toVerify.charAt(9) == '8'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>toVerify[9] == &quot;8&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringToVerify.replaceAll(&quot;[^0-9]&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>toVerify</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        <state relative-caret-position="190">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>
@@ -643,23 +829,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="283">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="689" column="16" selection-start-line="689" selection-start-column="16" selection-end-line="689" selection-end-column="16" />
+          <folding>
+            <element signature="e#24503#24504#0" expanded="true" />
+            <element signature="e#24549#24550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="53" column="173" selection-start-line="53" selection-start-column="173" selection-end-line="53" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="460">
+          <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
           <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1995#1996#0" expanded="true" />
+            <element signature="e#2253#2254#0" expanded="true" />
+            <element signature="e#2319#2320#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
