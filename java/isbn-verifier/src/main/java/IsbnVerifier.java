@@ -8,13 +8,9 @@ class IsbnVerifier {
 
         if (toVerify.length != 10) return false;
 
-        if(toVerify[9].equals( "X")){
-            toVerify[9] = "10";
-        }
+        isEqualsTheValueTenForX(toVerify);
 
-        if(toVerify[5].equals("X")){
-            return false;
-        }
+        if (isEqualsXInTheHalfElement(toVerify[5])) return false;
 
         int sequeneIntegerZero = Integer.parseInt(toVerify[0]) * 10;
         int sequeneIntegerOne = Integer.parseInt(toVerify[1]) * 9;
@@ -36,9 +32,28 @@ class IsbnVerifier {
                 + sequeneIntegerFour + sequeneIntegerFive + sequeneIntegerSix + sequeneIntegerSeven
                 + sequeneIntegerEigth + sequeneIntegerNine;
 
+        return returnTotal(sum, total);
+    }
+
+    private boolean returnTotal(int sum, int total) {
         total += sum;
         return total % 11 == 0;
     }
+
+    private boolean isEqualsXInTheHalfElement(String step) {
+        if(step.equals("X")){
+            return true;
+        }
+        return false;
+    }
+
+    private void isEqualsTheValueTenForX(String[] toVerify) {
+        if(toVerify[9].equals( "X")){
+            toVerify[9] = "10";
+        }
+    }
+
+
 }
 
 
