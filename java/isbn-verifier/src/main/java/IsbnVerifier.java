@@ -7,7 +7,7 @@ class IsbnVerifier {
         int total = 0;
 
         if (toVerify.length != 10) return false;
-        
+
         if(toVerify[9].equals( "X")){
             toVerify[9] = "10";
         }
