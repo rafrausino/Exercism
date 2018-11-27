@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnValidatorTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-11-27T16:28:25" hostname="Admins-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="testSimpleValidSINReversedRemainsValid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testRemoveAllCharacteres" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testValidCanadianSINValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringsWithNonDigitsInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testMoreThanSingleZeroValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringsContainingNonDigitInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSimpleValidSINReversedBecomesInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleZeroIsInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testNumberEvenlyDivisibleBy10" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testInvalidCanadianSINInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingPunctuationInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSumOfAllList" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testDigitNineConvertedToOutputNine" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleSpaceWithZeroInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testReverseList" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testReverseArray" classname="LuhnValidatorTest" time="0.002"/>
+  <testcase name="testSingleDigitStringInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingSymbolsInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testDoubleEverySecondNumberMinus9IfBiggerThan9" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testInvalidCreditCardInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testDoubleEverySecondNumber" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testRemovalOfSpaces" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testCreateArrayOfString" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testOddEvenNumber" classname="LuhnValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
