@@ -4,6 +4,27 @@
     <list default="true" id="b991ba26-f2cb-4f83-9892-4433a544a17c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../isbn-verifier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../isbn-verifier/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../luhn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../luhn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/MatrixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/MatrixTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MatrixTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MatrixTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-MatrixTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-MatrixTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MatrixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MatrixTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sum-of-multiples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sum-of-multiples/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,25 +51,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="12" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="12" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4628" />
+          <entry key="java" value="4688" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4628" />
+          <entry key="JAVA" value="4688" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -65,23 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="272">
+              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -449,16 +467,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
         <option value="$PROJECT_DIR$/src/test/java/MatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-265" />
-    <option name="y" value="-1054" />
-    <option name="width" value="1906" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-268" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -537,7 +555,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MatrixTest.testCreateMatrix">
+  <component name="RunManager" selected="JUnit.MatrixTest.extractRowFromMatrixTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -564,11 +582,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixTest.testCreateLineOnceRowMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MatrixTest.extractRowFromOneNumberMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="matrix_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MatrixTest" />
-      <option name="METHOD_NAME" value="testCreateLineOnceRowMatrix" />
+      <option name="METHOD_NAME" value="extractRowFromOneNumberMatrixTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -612,19 +630,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MatrixTest.extractRowFromMatrixTest" />
-      <item itemvalue="JUnit.MatrixTest.testCreateLineOnceRowMatrix" />
       <item itemvalue="JUnit.MatrixTest.testCreateLineOneRowVector" />
       <item itemvalue="JUnit.MatrixTest.testCreateMatrix" />
       <item itemvalue="JUnit.MatrixTest" />
+      <item itemvalue="JUnit.MatrixTest.extractRowFromOneNumberMatrixTest" />
+      <item itemvalue="JUnit.MatrixTest.extractRowFromMatrixTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatrixTest.extractRowFromMatrixTest" />
+        <item itemvalue="JUnit.MatrixTest.extractRowFromOneNumberMatrixTest" />
+        <item itemvalue="JUnit.MatrixTest" />
         <item itemvalue="JUnit.MatrixTest.testCreateMatrix" />
         <item itemvalue="JUnit.MatrixTest.testCreateLineOneRowVector" />
-        <item itemvalue="JUnit.MatrixTest" />
-        <item itemvalue="JUnit.MatrixTest.testCreateLineOnceRowMatrix" />
-        <item itemvalue="JUnit.MatrixTest.extractRowFromMatrixTest" />
       </list>
     </recent_temporary>
   </component>
@@ -642,18 +660,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 17h 43m 06s.xml">
-      <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 17h 43m 54s.xml">
-      <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 17h 45m 56s.xml">
-      <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 17h 47m 13s.xml">
-      <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 18h 17m 11s.xml">
       <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
     </history-entry>
@@ -672,16 +678,28 @@
     <history-entry file="MatrixTest_testCreateMatrix - 2018.11.29 at 18h 21m 48s.xml">
       <configuration name="MatrixTest.testCreateMatrix" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MatrixTest - 2018.11.29 at 18h 34m 06s.xml">
+      <configuration name="MatrixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixTest_extractRowFromOneNumberMatrixTest - 2018.12.03 at 10h 23m 40s.xml">
+      <configuration name="MatrixTest.extractRowFromOneNumberMatrixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixTest_extractRowFromMatrixTest - 2018.12.03 at 10h 45m 56s.xml">
+      <configuration name="MatrixTest.extractRowFromMatrixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixTest_extractRowFromMatrixTest - 2018.12.03 at 10h 53m 34s.xml">
+      <configuration name="MatrixTest.extractRowFromMatrixTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-265" y="-1054" width="1906" height="1050" extended-state="0" />
+    <frame x="-268" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18723176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -691,8 +709,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286004" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31135902" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858013" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29576108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39788055" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -710,16 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1657#1658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -748,20 +756,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="189">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>

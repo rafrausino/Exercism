@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MatrixTest" tests="10" skipped="8" failures="0" errors="0" timestamp="2018-11-29T20:23:58" hostname="Admins-MacBook-Pro.local" time="0.008">
+<testsuite name="MatrixTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-12-03T12:54:52" hostname="Admins-MacBook-Pro.local" time="0.005">
   <properties/>
-  <testcase name="testCreateMatrix" classname="MatrixTest" time="0.003"/>
-  <testcase name="extractRowFromOneNumberMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractRowFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractColumnFromNonSquareMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractColumnFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractColumnMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
+  <testcase name="testCreateMatrix" classname="MatrixTest" time="0.002"/>
+  <testcase name="extractRowFromOneNumberMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractRowFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0"/>
+  <testcase name="extractColumnFromNonSquareMatrixTest" classname="MatrixTest" time="0.0"/>
+  <testcase name="extractColumnFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0"/>
+  <testcase name="extractColumnMatrixTest" classname="MatrixTest" time="0.0"/>
   <testcase name="testCreateLineOneRowVector" classname="MatrixTest" time="0.0"/>
-  <testcase name="extractRowFromMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractColumnFromOneNumberMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="extractRowFromNonSquareMatrixTest" classname="MatrixTest" time="0.0">
-    <skipped/>
-  </testcase>
+  <testcase name="extractRowFromMatrixTest" classname="MatrixTest" time="0.0"/>
+  <testcase name="extractColumnFromOneNumberMatrixTest" classname="MatrixTest" time="0.0"/>
+  <testcase name="extractRowFromNonSquareMatrixTest" classname="MatrixTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
