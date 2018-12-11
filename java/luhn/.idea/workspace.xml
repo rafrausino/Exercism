@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511a209b-1677-48c1-ad1e-05347186ae36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ConversaoMatematica/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/rafrausin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../isbn-verifier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../isbn-verifier/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LuhnValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LuhnValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sum-of-multiples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sum-of-multiples/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/" />
@@ -33,6 +22,7 @@
     <session id="1455749477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -65,71 +55,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#3699#3700#0" expanded="true" />
-                <element signature="e#3755#3756#0" expanded="true" />
-                <element signature="e#3861#3862#0" expanded="true" />
-                <element signature="e#3916#3917#0" expanded="true" />
-                <element signature="e#4007#4008#0" expanded="true" />
-                <element signature="e#4071#4072#0" expanded="true" />
-                <element signature="e#4166#4167#0" expanded="true" />
-                <element signature="e#4231#4232#0" expanded="true" />
-                <element signature="e#4325#4326#0" expanded="true" />
-                <element signature="e#4398#4399#0" expanded="true" />
-                <element signature="e#4500#4501#0" expanded="true" />
-                <element signature="e#4566#4567#0" expanded="true" />
-                <element signature="e#4735#4736#0" expanded="true" />
-                <element signature="e#4835#4836#0" expanded="true" />
-                <element signature="e#4902#4903#0" expanded="true" />
-                <element signature="e#4998#4999#0" expanded="true" />
-                <element signature="e#5054#5055#0" expanded="true" />
-                <element signature="e#5147#5148#0" expanded="true" />
-                <element signature="e#5206#5207#0" expanded="true" />
-                <element signature="e#5306#5307#0" expanded="true" />
-                <element signature="e#5362#5363#0" expanded="true" />
-                <element signature="e#2633#2634#0" expanded="true" />
-                <element signature="e#2689#2690#0" expanded="true" />
-                <element signature="e#2701#2702#0" expanded="true" />
-                <element signature="e#2772#2773#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="e#1265#1266#0" expanded="true" />
-                <element signature="e#1306#1307#0" expanded="true" />
-                <element signature="e#1380#1381#0" expanded="true" />
-                <element signature="e#1435#1436#0" expanded="true" />
-                <element signature="e#3055#3056#0" expanded="true" />
-                <element signature="e#3092#3093#0" expanded="true" />
-                <element signature="e#3155#3156#0" expanded="true" />
-                <element signature="e#3197#3198#0" expanded="true" />
-                <marker date="1543337623948" expanded="true" signature="3252:3253" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -698,12 +624,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LuhnValidatorTest_testCanNotEmptyWithZero - 2018.11.27 at 14h 06m 40s.xml">
-      <configuration name="LuhnValidatorTest.testCanNotEmptyWithZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LuhnValidatorTest_testCanNotEmptyWithZero - 2018.11.27 at 14h 07m 00s.xml">
-      <configuration name="LuhnValidatorTest.testCanNotEmptyWithZero" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LuhnValidatorTest_testCanNotEmptyWithZero - 2018.11.27 at 14h 07m 29s.xml">
       <configuration name="LuhnValidatorTest.testCanNotEmptyWithZero" configurationId="JUnit" />
     </history-entry>
@@ -728,10 +648,15 @@
     <history-entry file="LuhnValidatorTest_testStringContainingPunctuationInvalid - 2018.11.27 at 14h 28m 13s.xml">
       <configuration name="LuhnValidatorTest.testStringContainingPunctuationInvalid" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LuhnValidatorTest_testSingleSpaceWithZeroInvalid - 2018.11.27 at 15h 27m 33s.xml">
+      <configuration name="LuhnValidatorTest.testSingleSpaceWithZeroInvalid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnValidatorTest_testStringContainingPunctuationInvalid - 2018.11.27 at 15h 27m 33s.xml">
+      <configuration name="LuhnValidatorTest.testStringContainingPunctuationInvalid" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-268" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -747,7 +672,7 @@
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.26878613" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.26878613" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.48362234" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -862,6 +787,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2260">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#3055#3056#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3155#3156#0" expanded="true" />
+            <element signature="e#3197#3198#0" expanded="true" />
+            <marker date="1543337623948" expanded="true" signature="3252:3253" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -899,24 +842,6 @@
             <element signature="e#2689#2690#0" expanded="true" />
             <element signature="e#2701#2702#0" expanded="true" />
             <element signature="e#2772#2773#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1380#1381#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
-            <element signature="e#3055#3056#0" expanded="true" />
-            <element signature="e#3092#3093#0" expanded="true" />
-            <element signature="e#3155#3156#0" expanded="true" />
-            <element signature="e#3197#3198#0" expanded="true" />
-            <marker date="1543337623948" expanded="true" signature="3252:3253" ph="..." />
           </folding>
         </state>
       </provider>
